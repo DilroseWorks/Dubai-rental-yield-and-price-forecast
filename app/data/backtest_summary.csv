@@ -1,0 +1,91 @@
+series_id,model,horizon_months,period,mape_pct
+DUBAI / Off-Plan / Flat,drift,3,2026 break,1.69
+DUBAI / Off-Plan / Flat,drift,3,normal,1.35
+DUBAI / Off-Plan / Flat,drift,6,2026 break,3.05
+DUBAI / Off-Plan / Flat,drift,6,normal,2.15
+DUBAI / Off-Plan / Flat,drift,12,2026 break,3.45
+DUBAI / Off-Plan / Flat,drift,12,normal,4.17
+DUBAI / Off-Plan / Flat,naive,3,2026 break,0.96
+DUBAI / Off-Plan / Flat,naive,3,normal,1.64
+DUBAI / Off-Plan / Flat,naive,6,2026 break,1.81
+DUBAI / Off-Plan / Flat,naive,6,normal,2.44
+DUBAI / Off-Plan / Flat,naive,12,2026 break,2.96
+DUBAI / Off-Plan / Flat,naive,12,normal,4.6
+DUBAI / Off-Plan / Flat,sarima,3,2026 break,1.24
+DUBAI / Off-Plan / Flat,sarima,3,normal,1.62
+DUBAI / Off-Plan / Flat,sarima,6,2026 break,2.39
+DUBAI / Off-Plan / Flat,sarima,6,normal,2.39
+DUBAI / Off-Plan / Flat,sarima,12,2026 break,3.15
+DUBAI / Off-Plan / Flat,sarima,12,normal,4.15
+DUBAI / Off-Plan / Villa,drift,3,2026 break,3.44
+DUBAI / Off-Plan / Villa,drift,3,normal,2.04
+DUBAI / Off-Plan / Villa,drift,6,2026 break,8.26
+DUBAI / Off-Plan / Villa,drift,6,normal,3.46
+DUBAI / Off-Plan / Villa,drift,12,2026 break,11.21
+DUBAI / Off-Plan / Villa,drift,12,normal,6.18
+DUBAI / Off-Plan / Villa,naive,3,2026 break,1.38
+DUBAI / Off-Plan / Villa,naive,3,normal,3.15
+DUBAI / Off-Plan / Villa,naive,6,2026 break,2.48
+DUBAI / Off-Plan / Villa,naive,6,normal,5.64
+DUBAI / Off-Plan / Villa,naive,12,2026 break,2.39
+DUBAI / Off-Plan / Villa,naive,12,normal,11.56
+DUBAI / Off-Plan / Villa,sarima,3,2026 break,1.49
+DUBAI / Off-Plan / Villa,sarima,3,normal,3.52
+DUBAI / Off-Plan / Villa,sarima,6,2026 break,2.13
+DUBAI / Off-Plan / Villa,sarima,6,normal,6.15
+DUBAI / Off-Plan / Villa,sarima,12,2026 break,2.4
+DUBAI / Off-Plan / Villa,sarima,12,normal,12.21
+DUBAI / Ready / Flat,drift,3,2026 break,4.07
+DUBAI / Ready / Flat,drift,3,normal,2.32
+DUBAI / Ready / Flat,drift,6,2026 break,8.34
+DUBAI / Ready / Flat,drift,6,normal,3.9
+DUBAI / Ready / Flat,drift,12,2026 break,14.6
+DUBAI / Ready / Flat,drift,12,normal,7.32
+DUBAI / Ready / Flat,naive,3,2026 break,2.99
+DUBAI / Ready / Flat,naive,3,normal,2.99
+DUBAI / Ready / Flat,naive,6,2026 break,4.31
+DUBAI / Ready / Flat,naive,6,normal,5.75
+DUBAI / Ready / Flat,naive,12,2026 break,3.89
+DUBAI / Ready / Flat,naive,12,normal,10.79
+DUBAI / Ready / Flat,sarima,3,2026 break,3.09
+DUBAI / Ready / Flat,sarima,3,normal,3.22
+DUBAI / Ready / Flat,sarima,6,2026 break,4.47
+DUBAI / Ready / Flat,sarima,6,normal,5.8
+DUBAI / Ready / Flat,sarima,12,2026 break,3.91
+DUBAI / Ready / Flat,sarima,12,normal,10.9
+DUBAI / Ready / Villa,drift,3,2026 break,6.41
+DUBAI / Ready / Villa,drift,3,normal,3.22
+DUBAI / Ready / Villa,drift,6,2026 break,8.82
+DUBAI / Ready / Villa,drift,6,normal,5.22
+DUBAI / Ready / Villa,drift,12,2026 break,8.78
+DUBAI / Ready / Villa,drift,12,normal,8.95
+DUBAI / Ready / Villa,naive,3,2026 break,5.23
+DUBAI / Ready / Villa,naive,3,normal,4.32
+DUBAI / Ready / Villa,naive,6,2026 break,6.34
+DUBAI / Ready / Villa,naive,6,normal,7.9
+DUBAI / Ready / Villa,naive,12,2026 break,6.69
+DUBAI / Ready / Villa,naive,12,normal,14.07
+DUBAI / Ready / Villa,sarima,3,2026 break,4.86
+DUBAI / Ready / Villa,sarima,3,normal,5.9
+DUBAI / Ready / Villa,sarima,6,2026 break,6.23
+DUBAI / Ready / Villa,sarima,6,normal,9.31
+DUBAI / Ready / Villa,sarima,12,2026 break,8.54
+DUBAI / Ready / Villa,sarima,12,normal,15.51
+MARSA DUBAI / Ready / Flat,drift,3,2026 break,7.73
+MARSA DUBAI / Ready / Flat,drift,3,normal,3.76
+MARSA DUBAI / Ready / Flat,drift,6,2026 break,11.24
+MARSA DUBAI / Ready / Flat,drift,6,normal,5.86
+MARSA DUBAI / Ready / Flat,drift,12,2026 break,14.37
+MARSA DUBAI / Ready / Flat,drift,12,normal,11.51
+MARSA DUBAI / Ready / Flat,naive,3,2026 break,6.71
+MARSA DUBAI / Ready / Flat,naive,3,normal,3.99
+MARSA DUBAI / Ready / Flat,naive,6,2026 break,8.08
+MARSA DUBAI / Ready / Flat,naive,6,normal,6.62
+MARSA DUBAI / Ready / Flat,naive,12,2026 break,6.87
+MARSA DUBAI / Ready / Flat,naive,12,normal,12.63
+MARSA DUBAI / Ready / Flat,sarima,3,2026 break,5.68
+MARSA DUBAI / Ready / Flat,sarima,3,normal,4.31
+MARSA DUBAI / Ready / Flat,sarima,6,2026 break,6.91
+MARSA DUBAI / Ready / Flat,sarima,6,normal,6.87
+MARSA DUBAI / Ready / Flat,sarima,12,2026 break,6.69
+MARSA DUBAI / Ready / Flat,sarima,12,normal,12.99
