@@ -1,6 +1,6 @@
 # Dubai property market intelligence
 
-**Live app (Dubai Yield Map):** <add your Streamlit URL here> · **Power BI report:** `powerbi/dubaiprop_v2.pbix` (add 3 page screenshots to `reports/` and link them here)
+**Live app (Dubai Yield Map):** <https://dubai-yield-map.streamlit.app/> · **Power BI report:** `powerbi/dubaiprop_v2.pbix` (add 3 page screenshots to `reports/` and link them here)
 
 ## The question
 
