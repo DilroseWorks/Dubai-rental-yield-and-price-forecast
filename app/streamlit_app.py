@@ -468,7 +468,7 @@ with right:
         options = score[score["segment"] == calc_seg].sort_values("community_name")
         names = options["community_name"].tolist()
         preferred = "Dubai Marina" if calc_seg == "Flat" else "Dubai Hills Estate"
-        f1, f2, f3 = st.columns([1.4, 0.8, 1])
+        f1, f2, f3 = st.columns([1.2, 0.7, 1.2])
         name = f1.selectbox("Community", names, index=names.index(preferred) if preferred in names else 0,
                             key=f"comm_{calc_seg}")
         row = options[options["community_name"] == name].iloc[0]
