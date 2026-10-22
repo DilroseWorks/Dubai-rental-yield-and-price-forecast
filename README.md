@@ -2,6 +2,8 @@
 
 **Live app (Dubai Yield Map):** <https://dubai-yield-map.streamlit.app/> · **Power BI report:** `powerbi/Dubai_Yield_Map.pbix`
 ![Dashboard](reports/dubai_dashboard_1.png)
+![Dashboard](reports/dubai_dashboard_2.png)
+![Dashboard](reports/dubai_dashboard_3.png)
 
 ## The question
 
