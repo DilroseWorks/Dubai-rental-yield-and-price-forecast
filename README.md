@@ -1,4 +1,4 @@
-# Dubai property market intelligence
+# Dubai rental yield and price forecast
 
 **Live app (Dubai Yield Map):** <https://dubai-yield-map.streamlit.app/> · **Power BI report:** `powerbi/dubaiprop_v2.pbix` (add 3 page screenshots to `reports/` and link them here)
 
