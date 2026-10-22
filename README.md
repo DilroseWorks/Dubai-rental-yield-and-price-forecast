@@ -1,6 +1,7 @@
 # Dubai rental yield and price forecast
 
-**Live app (Dubai Yield Map):** <https://dubai-yield-map.streamlit.app/> · **Power BI report:** `powerbi/dubaiprop_v2.pbix` (add 3 page screenshots to `reports/` and link them here)
+**Live app (Dubai Yield Map):** <https://dubai-yield-map.streamlit.app/> · **Power BI report:** `powerbi/Dubai_Yield_Map.pbix`
+![Dashboard](reports/dubai_dashboard1.png)
 
 ## The question
 
